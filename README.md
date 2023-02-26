@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @mavenjinx
-- 👀 I’m interested in ... ahh scripting minecraft mostly the computer addons 
-- 🌱 I’m currently learning { Lua 5.3.3 }
-- 💞️ I’m looking to collaborate on  Honestly its just for Modded minecraft stuff 
-- 📫 How to reach me ... i can be emailed at mavenjinx2@gmail.com please no sales pitches im not interested
+# Intro 
 
-<!---
-mavenjinx/mavenjinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p> This Readme will contain lots of info that i hope to make easily readable and accesable.<br>
+-the point will be to maintain my dotfiles and simplify the setup of new machines as i tend to change O/S often.
+</p>  
+
+# Table of Contents  
+
+1. ### Tmux  
+  - Install  
+  - Config  
+  - Plugins  
+2. ### Kitty  
+  - Install  
+  - Config  
+  - Kittens  
+3. ### Neovim  
+  - Install  
+  - Config  
+  - Plugins  
+4. ### Lunarvim  
+  - Install
+  - Config
+  - Plugins  
+5. ### Doom/Emacs
