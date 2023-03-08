@@ -26,4 +26,6 @@
   - Plugins  
 5. ### Doom/Emacs
   
+<<<<<<< HEAD
 [Testing](https://github.com/mavenjinx/.dotfiles/blob/main/README.md)
+=======
