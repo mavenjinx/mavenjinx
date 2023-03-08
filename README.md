@@ -9,8 +9,8 @@
 # Table of Contents  
 
 1. ### Tmux  
-  - Install  
-  - Config  
+  - [Install](https://github.com/mavenjinx/.dotfiles/blob/main/tmuxinstall.md)  
+  - [Config](https://github.com/mavenjinx/.dotfiles/blob/main/tmux-notes.md) 
   - Plugins  
 2. ### Kitty  
   - Install  
