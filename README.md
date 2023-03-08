@@ -25,6 +25,5 @@
   - Config
   - Plugins  
 5. ### Doom/Emacs
-  ```
-[Testing](https://github.com/mavenjinx/.dotfiles/README.md)
-```
+  
+[Testing](https://github.com/mavenjinx/.dotfiles/blob/main/README.md)
