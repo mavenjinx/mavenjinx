@@ -20,11 +20,7 @@
   - Install  
   - Config  
   - Plugins  
-4. ### Lunarvim  
-  - Install
-  - Config
-  - Plugins  
-5. ### Doom/Emacs
+
   
 
 [Testing](https://github.com/mavenjinx/.dotfiles/blob/main/README.md)
